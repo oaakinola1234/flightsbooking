@@ -1,5 +1,7 @@
 package page.classes;
 
+
+//Changes made for testing purposes
 import org.apache.log4j.Logger;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.Select;
